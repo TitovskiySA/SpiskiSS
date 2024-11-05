@@ -1,0 +1,15 @@
+#well-well-well, You was rather curious to find this file.
+#I think, you can suggest what else you can change in this application
+#Sincerely, TitovskiySA, 04/04/2023
+
+
+
+
+#timerefresh= 5 seconds
+#timerenew= 3600 seconds
+#colourback= #bfdee8
+#colourbtn= #EBF7FF
+#colourbtnmonit= #EBF777
+
+
+#P.S. timerefresh can't be less than 5 seconds, you can try it yourself
